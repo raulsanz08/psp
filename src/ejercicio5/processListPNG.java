@@ -1,4 +1,4 @@
-package proceso;
+package ejercicio5;
 
 import java.io.File;
 import java.io.FilenameFilter;
